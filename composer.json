@@ -1,0 +1,20 @@
+{
+    "name": "hevertonfreitas/filter_results",
+    "description": "Generates conditions to find methods in CakePHP 2.3+ from a search form",
+    "type": "cakephp-plugin",
+    "homepage": "https://github.com/hevertonfreitas/filter_results",
+    "require": {
+        "cakephp/cakephp": "^2.3"
+    },
+    "license": "CC-BY-3.0",
+    "authors": [
+        {
+            "name":"Pedro Elsner",
+            "email": "pedro.elsner@gmail.com"
+        },
+        {
+            "name": "Heverton Coneglian de Freitas",
+            "email": "hevertonconeglian@gmail.com"
+        }
+    ]
+}
